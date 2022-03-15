@@ -1,4 +1,4 @@
-This is an arcade-style flappy-bird-inspired game, that was designed for the [Truttle1 Game Jam](https://itch.io/jam/truttle1-game-jam).
+This is an arcade-style flappy-bird-inspired game, that was designed for the [Truttle1 Game Jam](https://itch.io/jam/truttle1-game-jam).  
 [Itch.io](https://tams-tams.itch.io/gravitruttle)
 
 ## Instructions
