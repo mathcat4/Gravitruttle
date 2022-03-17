@@ -14,5 +14,6 @@ Have fun!
 Contribution
 - The turtle is a pixel-art version of [Truttle1's profile picture](https://www.youtube.com/c/Truttle1)
 - Epic background from [anszimus](https://ansimuz.itch.io/space-background)
+- PyGamer0's [MineFont](https://www.github.com/Pygamer0/minefont)
 - Some sound effects from [envato](https://elements.envato.com/)
 - Box Image from [KerteX_](https://opengameart.org/content/wooden-box-0)
